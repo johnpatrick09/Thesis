@@ -1,0 +1,26 @@
+        <div class = "box">
+            <img src="images/Icons/PQ.png" alt=""><br>
+            <h3>Price is what you pay, quality is what you get.</h3><br>
+            <span><p> Our goal is to give every Filipino the lighting solutions which is high in quality, competitive price and offers strong after sales.</p></span><span><br><br><br></span>
+        </div>
+        <div class = "box2">
+            <img src="images/Icons/II.png" alt=""><br>
+            <h3>Improved and Innovative</h3><br>
+            <p> We offer new and Improved RGB LED Strip Lights and we are open for your feedbacks and suggestions for us to improve more.</p>
+        </div>
+        <div class = "box3">
+            <img src="images/Icons/HMPB.png" alt=""><br>
+            <h3>High end materials and Premium Brands</h3><br>
+            <p> Transform your place into a safe and wonderful home with our next generation lighting solutions which offers competitive prices using high-end materials that you can have with premium brands.</p>
+        </div>
+        <div class = "box4">
+            <img src="images/Icons/FCES.png" alt=""><br>
+            <h3>Full Customer Experience Service</h3><br>
+            <p> We give our full attention on providing customer's needs. Whether It be from products or services, We will make sure to attain excellence and exceed our customer's satisfaction.</p>
+        </div>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" crossorigin="anonymous"></script>
